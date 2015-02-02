@@ -1,0 +1,1091 @@
+[
+    {
+        "courseId": "building-services-engineering-beng",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Building Services Engineering BEng (Hons)",
+        "subjectAreas": [
+            "engineering",
+            "building"
+        ]
+    },
+    {
+        "courseId": "civil-engineering-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Civil Engineering BEng (Hons)",
+        "subjectAreas": [
+            "engineering",
+            "building"
+        ]
+    },
+    {
+        "courseId": "civil-engineering-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Civil Engineering BSc (Hons)",
+        "subjectAreas": [
+            "engineering",
+            "building"
+        ]
+    },
+    {
+        "courseId": "civil-engineering-meng",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Civil Engineering MEng",
+        "subjectAreas": [
+            "engineering",
+            "building"
+        ]
+    },
+    {
+        "courseId": "international-leadership-and-management-in-health-and-social-care-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "International Leadership and Management in Health and Social Care BA",
+        "subjectAreas": [
+            "caring",
+            "business"
+        ]
+    },
+    {
+        "courseId": "advertising-and-business-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Advertising and Business BA (Hons)",
+        "subjectAreas": [
+            "marketing",
+            "business"
+        ]
+    },
+    {
+        "courseId": "business-and-marketing-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Business and Marketing BA (Hons)",
+        "subjectAreas": [
+            "marketing",
+            "business"
+        ]
+    },
+    {
+        "courseId": "sport-psychology-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Sport Psychology BSc (Hons)",
+        "subjectAreas": [
+            "science",
+            "caring"
+        ]
+    },
+    {
+        "courseId": "automotive-and-transport-design-mdesba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Automotive and Transport Design MDes/BA (Hons)",
+        "subjectAreas": [
+            "art",
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "french-and-english-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "French and English BA (Hons)",
+        "subjectAreas": [
+            "languages",
+            "english"
+        ]
+    },
+    {
+        "courseId": "french-and-tefl-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "French and TEFL BA (Hons)",
+        "subjectAreas": [
+            "languages",
+            "english"
+        ]
+    },
+    {
+        "courseId": "spanish-and-english-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Spanish and English BA (Hons)",
+        "subjectAreas": [
+            "languages",
+            "english"
+        ]
+    },
+    {
+        "courseId": "spanish-and-tefl-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Spanish and TEFL BA (Hons)",
+        "subjectAreas": [
+            "languages",
+            "english"
+        ]
+    },
+    {
+        "courseId": "business-and-finance-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Business and Finance BA (Hons)",
+        "subjectAreas": [
+            "business",
+            "finance"
+        ]
+    },
+    {
+        "courseId": "business-economics-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Business Economics BA (Hons)",
+        "subjectAreas": [
+            "business",
+            "finance"
+        ]
+    },
+    {
+        "courseId": "environmental-health-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Environmental Health BSc (Hons)",
+        "subjectAreas": [
+            "geog",
+            "health"
+        ]
+    },
+    {
+        "courseId": "english-and-teaching-english-as-a-foreign-language-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "English and Teaching English as a Foreign Language BA (Hons)",
+        "subjectAreas": [
+            "english",
+            "languages"
+        ]
+    },
+    {
+        "courseId": "psychology-and-criminology-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Psychology and Criminology BSc (Hons)",
+        "subjectAreas": [
+            "science",
+            "law"
+        ]
+    },
+    {
+        "courseId": "criminology-and-law-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Criminology and Law BA (Hons)",
+        "subjectAreas": [
+            "social",
+            "law"
+        ]
+    },
+    {
+        "courseId": "history-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "History BA (Hons)",
+        "subjectAreas": [
+            "social",
+            "law"
+        ]
+    },
+    {
+        "courseId": "sociology-and-criminology-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Sociology and Criminology BA (Hons)",
+        "subjectAreas": [
+            "social",
+            "law"
+        ]
+    },
+    {
+        "courseId": "english-and-journalism-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "English and Journalism BA (Hons)",
+        "subjectAreas": [
+            "english",
+            "media"
+        ]
+    },
+    {
+        "courseId": "journalism-and-media-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Journalism and Media BA (Hons)",
+        "subjectAreas": [
+            "english",
+            "media"
+        ]
+    },
+    {
+        "courseId": "forensic-investigations-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Forensic Investigations BSc (Hons)",
+        "subjectAreas": [
+            "geog",
+            "science"
+        ]
+    },
+    {
+        "courseId": "childhood-and-youth-studies-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Childhood and Youth Studies BA (Hons)",
+        "subjectAreas": [
+            "caring",
+            "social"
+        ]
+    },
+    {
+        "courseId": "fashion-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Fashion BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "fine-art-and-illustration-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Fine Art and Illustration BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "fine-art-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Fine Art BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "graphic-design-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Graphic Design BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "illustration-and-animation-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Illustration and Animation BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "illustration-and-graphics-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Illustration and Graphics BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "interior-design-mdesba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Interior Design MDes/BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "product-design-mdesba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Product Design MDes/BA (Hons)",
+        "subjectAreas": [
+            "art"
+        ]
+    },
+    {
+        "courseId": "architectural-technology-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Architectural Technology BSc (Hons)",
+        "subjectAreas": [
+            "building"
+        ]
+    },
+    {
+        "courseId": "architecture-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Architecture BSc (Hons)",
+        "subjectAreas": [
+            "building"
+        ]
+    },
+    {
+        "courseId": "building-surveying-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Building Surveying BSc (Hons)",
+        "subjectAreas": [
+            "building"
+        ]
+    },
+    {
+        "courseId": "construction-management-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Construction Management BSc",
+        "subjectAreas": [
+            "building"
+        ]
+    },
+    {
+        "courseId": "quantity-surveying-and-commercial-management-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Quantity Surveying and Commercial Management BSc (Hons)",
+        "subjectAreas": [
+            "building"
+        ]
+    },
+    {
+        "courseId": "aviation-management-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Aviation Management BSc (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "business-administration-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Business Administration BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "business-and-human-resource-management-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Business and Human Resource Management BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "business-information-technology-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Business Information Technology BSc (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "business-management-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Business Management BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "enteprise-and-entrepreneurship-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Enterprise and Entrepreneurship BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "european-business-management-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "European Business Management BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "global-logistics-bsc",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Global Logistics BSc",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "international-business-management-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "International Business Management BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "oil-gas-and-energy-management-bsc-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Oil, Gas and Energy Management BSc (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "sport-management-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Sport Management BA (Hons)",
+        "subjectAreas": [
+            "business"
+        ]
+    },
+    {
+        "courseId": "social-work-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Social Work BA (Hons)",
+        "subjectAreas": [
+            "caring"
+        ]
+    },
+    {
+        "courseId": "youth-work-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Youth Work BA (Hons)",
+        "subjectAreas": [
+            "caring"
+        ]
+    },
+    {
+        "courseId": "aerospace-systems-engineering-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Aerospace Systems Engineering BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "aerospace-technology-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Aerospace Technology BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "automotive-engineering-meng-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Automotive Engineering MEng/BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "electrical-and-electronic-engineering-meng-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Electrical and Electronic Engineering MEng/BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "electronic-engineering-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Electronic Engineering BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "manufacturing-engineering-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Manufacturing Engineering MEng/BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "mechanical-engineering-mengbeng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Mechanical Engineering MEng/BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "motorsport-engineering-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Motorsport Engineering BEng (Hons)",
+        "subjectAreas": [
+            "engineering"
+        ]
+    },
+    {
+        "courseId": "english-and-creative-writing-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "English and Creative Writing BA (Hons)",
+        "subjectAreas": [
+            "english"
+        ]
+    },
+    {
+        "courseId": "english-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "English BA (Hons)",
+        "subjectAreas": [
+            "english"
+        ]
+    },
+    {
+        "courseId": "accountancy-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Accountancy BA (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "accounting-and-finance-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Accounting and Finance BA (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "economics-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Economics BA (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "finance-and-investment-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Finance and Investment BA (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "finance-bsc-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Finance BSc (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "financial-economics-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Financial Economics BA (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "international-economics-and-trade-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "International Economics and Trade BA (Hons)",
+        "subjectAreas": [
+            "finance"
+        ]
+    },
+    {
+        "courseId": "disaster-management-and-emergency-planning-bsc-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Disaster Management and Emergency Planning BSc (Hons)",
+        "subjectAreas": [
+            "geog"
+        ]
+    },
+    {
+        "courseId": "disaster-management-bsc-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Disaster Management BSc (Hons)",
+        "subjectAreas": [
+            "geog"
+        ]
+    },
+    {
+        "courseId": "geography-and-natural-hazards-bsc-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Geography and Natural Hazards BSc (Hons)",
+        "subjectAreas": [
+            "geog"
+        ]
+    },
+    {
+        "courseId": "geography-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Geography BA (Hons)",
+        "subjectAreas": [
+            "geog"
+        ]
+    },
+    {
+        "courseId": "geography-bsc-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Geography BSc (Hons)",
+        "subjectAreas": [
+            "geog"
+        ]
+    },
+    {
+        "courseId": "adult-nursing-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Adult Nursing BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "children-and-young-peoples-nursing-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Children and Young People's Nursing BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "learning-disabilities-nursing-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Learning Disabilities Nursing BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "mental-health-nursing-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Mental Health Nursing BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "midwifery-shortened-88-week-course-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Midwifery (Shortened 88 Week Course) BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "midwifery-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Midwifery BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "occupational-therapy-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Occupational Therapy BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "operating-department-practice-diphe",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Operating Department Practice DipHE",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "physiotherapy-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Physiotherapy BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "sports-therapy-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Sports Therapy BSc (Hons)",
+        "subjectAreas": [
+            "health"
+        ]
+    },
+    {
+        "courseId": "french-and-business-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "French and Business BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "french-and-international-relations-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "French and International Relations BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "french-and-spanish-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "French and Spanish BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "french-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "French BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "languages-for-business-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Languages for Business BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "spanish-and-business-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Spanish and Business BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "spanish-and-international-relations-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Spanish and International Relations BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "spanish-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Spanish BA (Hons)",
+        "subjectAreas": [
+            "languages"
+        ]
+    },
+    {
+        "courseId": "commercial-law-llb-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Commercial Law LLB (Hons)",
+        "subjectAreas": [
+            "law"
+        ]
+    },
+    {
+        "courseId": "international-law-llb-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "International Law LLB (Hons)",
+        "subjectAreas": [
+            "law"
+        ]
+    },
+    {
+        "courseId": "international-relations-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "International Relations BA (Hons)",
+        "subjectAreas": [
+            "law"
+        ]
+    },
+    {
+        "courseId": "law-llb-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Law LLB (Hons)",
+        "subjectAreas": [
+            "law"
+        ]
+    },
+    {
+        "courseId": "politics-and-history-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Politics and History BA (Hons)",
+        "subjectAreas": [
+            "law"
+        ]
+    },
+    {
+        "courseId": "politics-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Politics BA (Hons)",
+        "subjectAreas": [
+            "law"
+        ]
+    },
+    {
+        "courseId": "advertising-and-marketing-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Advertising and Marketing BA (Hons)",
+        "subjectAreas": [
+            "marketing"
+        ]
+    },
+    {
+        "courseId": "event-management-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Event Management BA (Hons)",
+        "subjectAreas": [
+            "marketing"
+        ]
+    },
+    {
+        "courseId": "marketing-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Marketing BA (Hons)",
+        "subjectAreas": [
+            "marketing"
+        ]
+    },
+    {
+        "courseId": "sport-marketing-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Sport Marketing BA (Hons)",
+        "subjectAreas": [
+            "marketing"
+        ]
+    },
+    {
+        "courseId": "applied-mathematics-and-theoretical-physics-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Applied Mathematics and Theoretical Physics BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "computer-hardware-and-software-engineering-beng-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Computer Hardware and Software Engineering BEng (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "computer-science-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Computer Science BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "computing-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Computing BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "ethical-hacking-and-network-security-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Ethical Hacking and Network Security BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "games-technology-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Games Technology BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "mathematics-and-statistics-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Mathematics and Statistics BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "mathematics-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Mathematics BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "multimedia-computing-bsc-hons",
+        "facultyUrl": "faculty-of-engineering-and-computing/undergraduate/",
+        "courseName": "Multimedia Computing BSc (Hons)",
+        "subjectAreas": [
+            "maths"
+        ]
+    },
+    {
+        "courseId": "dance-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Dance BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "digital-media-ba",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Digital Media BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "media-and-communications-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Media and Communications BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "media-production-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Media Production BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "music-composition-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Music Composition BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "music-performance-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Music Performance BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "music-technology-bsc-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Music Technology BSc (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "photography-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Photography BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "theatre-and-professional-practice-ba-hons",
+        "facultyUrl": "school-of-art-and-design/undergraduate/",
+        "courseName": "Theatre and Professional Practice BA (Hons)",
+        "subjectAreas": [
+            "media"
+        ]
+    },
+    {
+        "courseId": "analytical-chemistry-and-forensic-science-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Analytical Chemistry and Forensic Science BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "biological-and-forensic-sciences-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Biological and Forensic Sciences BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "biomedical-science-applied-biomedical-science-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Biomedical Science/Applied Biomedical Science BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "dietetics-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Dietetics BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "exercise-nutrition-and-health-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Exercise, Nutrition and Health BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "food-and-nutrition-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Food and Nutrition BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "human-biosciences-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Human Biosciences BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "medical-and-pharmacological-sciences-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Medical and Pharmacological Sciences BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "psychology-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Psychology BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "sport-and-exercise-science-bsc-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Sport and Exercise Science BSc (Hons)",
+        "subjectAreas": [
+            "science"
+        ]
+    },
+    {
+        "courseId": "applied-community-and-social-studies-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Applied Community and Social Studies BA (Hons)",
+        "subjectAreas": [
+            "social"
+        ]
+    },
+    {
+        "courseId": "criminology-and-psychology-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Criminology and Psychology BA (Hons)",
+        "subjectAreas": [
+            "social"
+        ]
+    },
+    {
+        "courseId": "criminology-ba-hons",
+        "facultyUrl": "faculty-of-health-and-life-sciences/undergraduate/",
+        "courseName": "Criminology BA (Hons)",
+        "subjectAreas": [
+            "social"
+        ]
+    },
+    {
+        "courseId": "sociology-ba-hons",
+        "facultyUrl": "faculty-of-business-environment-and-society/undergraduate/",
+        "courseName": "Sociology BA (Hons)",
+        "subjectAreas": [
+            "social"
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+/* -----------------------------------*/
+/* ---------->>> RESET  <<<-----------*/
+/* -----------------------------------*/
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0b2 | 201101 NOTE: THIS IS A BETA VERSION (see previous line) USE WITH CAUTION AND TEST WITH ABANDON */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
+blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img,
+ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure,
+figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%;
+font: inherit; vertical-align: baseline; } 
+
+/* HTML5 display-role reset for older browsers */ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; } 
+
+
+
+body {
+	font-family: HelveticaNeue, "Helvetica Neue", helvetica, arial, "sans serif";
+}
+
+
+div#frame {
+	overflow: auto;
+	background-color: #ededed;
+	border-radius: 3px 3px 3px 3px;
+	margin: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 3%;
+    min-height: 485px;
+}
+
+div#dropdown {
+	width: 35%;
+	float: left;
+    border-radius: 2px;
+}
+
+div#coursecontainer {
+	width: 60%;
+	float: left;
+	margin-left: 20px;
+}
+
+select#subjectdropdown {
+	background: transparent;
+	width: 120%; /*wider, hides arrow; narrower, shows old arrow*/
+	padding: 5px 86px 5px 5px;
+	font-size: 1em;
+	line-height: 1;
+	border: 0;
+	height: 45px;
+	-webkit-appearance: none; /*for chrome, tried putting on 'option'*/
+	overflow: hidden; 
+    white-space: pre; 
+	text-overflow: ellipsis;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+    color: #666;
+}
+
+form {
+	width: 90%;
+	height: 45px;
+	overflow: hidden;
+	background: url(graphics/dropdown-arrow.png) no-repeat right #fff;
+	border: 1px solid #ccc;
+    border-radius: 2px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+}
+
+#findyourcourse {
+	font-size: 2em;
+	font-weight: 800;
+	color: #666;
+	position: relative;
+	padding-left: 5em;
+	padding-top: 10px;
+	background: url("graphics/preclick-arrow.png") no-repeat left top transparent;
+}
+
+#findyourcourse.postclick {
+	display: none;
+}
+
+#findyourcourse, #somecoursespara, #nocoursespara, .clickonlink {
+	font-family: 'Handlee', cursive;
+}
+
+#somecoursespara, #nocoursespara {
+	font-weight: 400;
+	font-size: 1.1em;
+	line-height: 1.5;
+    background: url("graphics/postclick-arrow.png") no-repeat scroll 50% 85% transparent;
+    padding-bottom: 10em;
+}
+
+#somecoursespara h2 {
+	font-size: 2em;
+	color: #0083cc;
+	margin-bottom: 0.5em;
+	font-weight: 800;
+	line-height: 1.3;
+}
+
+.clickonlink {
+	margin-bottom: 0.5em;
+}
+
+#somecoursespara, #nocoursespara {
+	display: none;
+	margin-top: 20px;
+}
+
+#somecoursespara.postclick, #nocoursespara.postclick {
+	display: block;
+}
+
+#coursecontainer li {
+	display: block;
+	background-color: #fff;
+	padding: 4px;
+	font-size: 0.9em;
+	margin-top: 2px;
+}
+
+
+div#coursecontainer ul {
+	list-style: none;
+}
+
+
+
+canvas {
+	margin-top: 20px;
+}
+
+a {
+	color: #0083CC;
+	text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+	text-decoration: underline;
+}
+
+a:hover, a:active {
+    outline: 0 none;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.em {
+	font-style: italic;
+}
+
+
+/*/// MOBILE VERSION ///*/
+
+
+@media only screen and (max-width: 666px), only screen and (max-device-width: 666px) { /*increased from 645 to 666 to take acct of Find This Course div*/
+
+div#dropdown, div#coursecontainer {
+	width: 94%;
+	float: none;
+}
+
+div#coursecontainer {
+	margin-top: 30px;
+	margin-left: 0;
+}
+
+form {
+	width: 98%;
+	margin: 5px 0;
+}
+
+select#subjectdropdown {
+   font-size: 1em;
+}
+
+#findyourcourse {
+	left: 0;
+	padding: 0.3em 2em 22px 0; /*obscures top bit of dropdown*/
+	background: url("graphics/mobile-arrow.png") no-repeat right top transparent;
+}
+
+#findyourcourse.postclick {
+	display: inline;
+	visibility: hidden;
+}
+
+#somecoursespara, #nocoursespara {
+	padding-bottom: 3.5em;
+	margin-bottom: -3.5em;
+    background: url("graphics/mobile-arrow.png") no-repeat scroll 95% 95% transparent
+}
+
+} /*end of media query max-width 666px */
